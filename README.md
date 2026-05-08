@@ -37,7 +37,6 @@ RSA — Практическая работа №7
 
 
     /
-    ├── ПР7.ipynb         # Jupyter Notebook с полным кодом
     ├── main.py           # Основной скрипт
     ├── public.key        # Открытый ключ (e, n)
     ├── private.key       # Закрытый ключ (d, n)
